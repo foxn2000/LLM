@@ -6,7 +6,7 @@ import torch
 from transformers import AutoModelForSequenceClassification
 from transformers import AutoModelForCausalLM, AutoTokenizer, pipeline
 
-model_path = "model/save_model"
+model_path = "DataPilot/ArrowSmart_1.7b_instruction"
 
 model = AutoModelForCausalLM.from_pretrainedmodel = AutoModelForCausalLM.from_pretrained(model_path)
 tokenizer = AutoTokenizer.from_pretrained(model_path)
