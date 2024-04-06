@@ -1,9 +1,4 @@
-django
-whitenoise
-gunicorn
-beautifulsoup4
-requests
-duckduckgo_search
+discord.py
 torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
 transformers
 pipline
