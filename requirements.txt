@@ -1,0 +1,12 @@
+django
+whitenoise
+gunicorn
+beautifulsoup4
+requests
+duckduckgo_search
+torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+transformers
+pipline
+protobuf
+accelerate
+sentencepiece
